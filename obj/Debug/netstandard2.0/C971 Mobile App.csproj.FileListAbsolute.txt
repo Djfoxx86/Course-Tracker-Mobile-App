@@ -1,0 +1,25 @@
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\bin\Debug\netstandard2.0\C971 Mobile App.deps.json
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\bin\Debug\netstandard2.0\C971 Mobile App.dll
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\bin\Debug\netstandard2.0\ref\C971 Mobile App.dll
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\bin\Debug\netstandard2.0\C971 Mobile App.pdb
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\C971 Mobile App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\AddAssessment.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\AddCourse.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\AddTerm.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\AssessmentsPage.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\EditAssessment.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\EditCourse.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\EditTerm.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\C971 Mobile App.AssemblyInfoInputs.cache
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\C971 Mobile App.AssemblyInfo.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\C971 Mobile App.csproj.CoreCompileInputs.cache
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\C971 Mobile App.dll
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\ref\C971 Mobile App.dll
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\C971 Mobile App.pdb
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\C971 Mobile App.csproj.AssemblyReference.cache
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\AssessmentDetail.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\CoursePage.xaml.g.cs
+C:\Users\djfox\source\repos\C971 Mobile App\C971 Mobile App\C971 Mobile App\obj\Debug\netstandard2.0\TermPage.xaml.g.cs
